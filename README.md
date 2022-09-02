@@ -9,9 +9,9 @@ The program contains 3 files, which are
  - **face_and_eye_detector_single_image.py** - Detects face and eye from a single image.
  Demo-
  
-|---|---|
 
- - **face_and_eye_detector_webcam_video.py** - Detects face and eye in a webcam feed by user![Webcam Face and Eye Detection](https://github.com/mohitwildbeast/Driver-Drowsiness-Detector/blob/master/images/webcam_face_eye_detect.jpeg)
+
+ - **face_and_eye_detector_webcam_video.py** - Detects face and eye in a webcam feed by user
  - **drowsiness_detect.py**- This script detects if person is drowsy or not using webcam video feed
 
 
